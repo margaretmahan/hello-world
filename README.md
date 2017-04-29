@@ -1,4 +1,4 @@
-# hello-world
-Basic repository for hello world
+# hello world
+repository testing
 
-This is a test.
+my project
