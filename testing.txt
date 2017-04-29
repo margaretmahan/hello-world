@@ -1,2 +1,1 @@
-i am a test file for branching
-and i have extra changes
+i am master and i have diverged from testing branch
